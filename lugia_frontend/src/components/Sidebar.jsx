@@ -11,7 +11,7 @@ const isActiveStyle = 'flex items-center px-5 gap-3 font-extrabold border-black 
 const categories = [
   { name: 'Animals' },
   { name: 'Wallpapers' },
-  { name: 'Photogrphy' },
+  { name: 'Photography' },
   { name: 'Gaming' },
   { name: 'Coding' },
   { name: 'Other' },
