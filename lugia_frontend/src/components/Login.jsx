@@ -6,7 +6,7 @@ import { FcGoogle } from 'react-icons/fc';
 import { gapi } from 'gapi-script';
 
 import shareVideo from '../assets/share.mp4';
-import logo from '../assets/logowhite.png';
+import logo from '../assets/logo1.png';
 
 import { client } from '../client';
 
