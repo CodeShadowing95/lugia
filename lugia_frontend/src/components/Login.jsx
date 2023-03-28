@@ -16,7 +16,7 @@ const Login = () => {
   // loads related to the Google account
   useEffect(() => {
     function start() {
-      gapi.auth2.init({
+      gapi.client.init({
         clientId: process.env.REACT_APP_GOOGLE_API_TOKEN,
         scope: ""
       })

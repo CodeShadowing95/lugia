@@ -7,7 +7,7 @@ import { Sidebar, UserProfile } from '../components';
 import Pins from './Pins';
 import { userQuery } from '../utils/data';
 import { client } from '../client';
-import logo from '../assets/logo.png';
+import logo from '../assets/logo1.png';
 import { fetchUser } from '../utils/fetchUser';
 
 const Home = () => {
